@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import matplotlib.ticker as ticker
 import seaborn as sns
 
-df = pd.read_csv(r"C:\Users\julio.cesar\OneDrive - Grafica e Editora Sarapui Ltda\Documentos\Algoritmo\Análise de dados\ecommerce_sales_analytics_5000.csv")
+df = pd.read_csv("ecommerce_sales_analytics_5000.csv")
 
 
 # # Gráfico de barras:
