@@ -51,7 +51,7 @@ Todos os gráficos respondem aos filtros de **categoria**, **região** e
 
 ```bash
 # 1. Clonar o repositório
-git clone https://github.com/SEU-USUARIO/ecommerce-dashboard.git
+git clone https://github.com/juliocesardesousa/Analise-de-dados.git
 cd ecommerce-dashboard
 
 # 2. Criar e ativar um ambiente virtual (opcional, recomendado)
