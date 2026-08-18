@@ -12,10 +12,6 @@ Projeto de portfólio construído durante minha formação em Análise e Desenvo
 de Sistemas, aplicando análise exploratória de dados (EDA) e visualização de dados
 a um cenário de negócio realista.
 
-## 🖼️ Preview
-
-*(adicionar aqui um GIF ou screenshot do dashboard rodando)*
-
 ## 🗂️ Estrutura do projeto
 
 ```
